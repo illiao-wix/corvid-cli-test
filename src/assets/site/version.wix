@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
   "content": "eyJyZXZpc2lvbiI6OCwidmVyc2lvbiI6MTU3ODA1MDc4OTAyNH0=",
+=======
+  "content": "eyJyZXZpc2lvbiI6NiwidmVyc2lvbiI6MTU3ODA0OTkwMzAwN30=",
+>>>>>>> change design on A
   "documentSchemaVersion": "1.0"
 }
