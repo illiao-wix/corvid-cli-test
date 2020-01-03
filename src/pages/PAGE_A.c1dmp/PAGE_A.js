@@ -3,6 +3,6 @@ $w.onReady(() => {
     console.log('Add new log =)');
     $w('#text2').text = 'Meh!';
     for (let i = 0; i < 10; i++) {
-        console.log('loop', i);
+        console.log('new loop', i);
     }
 })

@@ -5,6 +5,7 @@ type PageElementsMap = {
   "#button1": $w.Button;
   "#vectorImage1": $w.VectorImage;
   "#vectorImage2": $w.VectorImage;
+  "#button2": $w.Button;
   "#header1": $w.Header;
   "#footer1": $w.Footer;
 }
