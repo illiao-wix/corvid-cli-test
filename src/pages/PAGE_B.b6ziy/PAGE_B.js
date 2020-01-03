@@ -1,3 +1,3 @@
 $w.onReady(() => {
-    console.log('Meh');
+    console.log('New version of meh');
 })
